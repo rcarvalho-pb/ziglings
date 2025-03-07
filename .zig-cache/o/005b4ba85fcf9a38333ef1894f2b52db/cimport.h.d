@@ -1,0 +1,20 @@
+cimport.o: \
+  C:/R/Projetos/zig/ziglings/.zig-cache/o/005b4ba85fcf9a38333ef1894f2b52db/cimport.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/unistd.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/io.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/crtdefs.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/corecrt.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/_mingw.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/_mingw_mac.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/_mingw_secapi.h \
+  C:/R/Langs/Zig/lib/include/vadefs.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/vadefs.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/sdks/_mingw_ddk.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/string.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/sec_api/string_s.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/_mingw_off_t.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/process.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/corecrt_startup.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/sys/types.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/getopt.h \
+  C:/R/Langs/Zig/lib/libc/include/any-windows-any/pthread_unistd.h
