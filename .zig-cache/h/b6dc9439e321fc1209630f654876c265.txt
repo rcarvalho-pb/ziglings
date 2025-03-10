@@ -1,0 +1,10 @@
+0
+18 3960046 1741566137264973788 a53f491cd36c555dcf8185b5265c075d 2 o/154f78dfd21e2ec0a976d45b0c90b521/cimport.h
+33916 233670 1731198001000000000 bf4263630c31e280cec12f7bc82eb68f 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h
+41297 233322 1731728280000000000 aaa998f737c0a4d155d8f0d23345fe03 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h
+37247 233256 1731728240000000000 1bc8bb3a64f87a863efb7c515c8c16e9 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_symbol_aliasing.h
+2905 233346 1731728281000000000 51fc551769d0c165dbafee629c983aac 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_posix_availability.h
+22393 234154 1731191778000000000 913df106ff719ae8ebf470e4fdb6dad4 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/Availability.h
+25537 233649 1731191778000000000 a978da5f8bcd5933bd86377b4ff1be76 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h
+26340 233944 1731191778000000000 28b83ab1da7aae5f9551444663af6253 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h
+414503 232450 1731191778000000000 29f74643c2f8fc4fbbd14c08dca16f05 0 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h

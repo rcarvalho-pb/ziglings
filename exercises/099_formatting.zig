@@ -119,7 +119,7 @@ pub fn main() !void {
     // Header column rule line.
     var n: u8 = 0;
     while (n <= size) : (n += 1) {
-        print("---+", .{});
+        print("{s:->4}", .{"+"});
     }
     print("\n", .{});
 
@@ -131,7 +131,7 @@ pub fn main() !void {
         for (0..size) |b| {
             // What formatting is needed here to make our columns
             // nice and straight?
-            print("{???} ", .{(a + 1) * (b + 1)});
+            print("{d:>3} ", .{(a + 1) * (b + 1)});
         }
 
         // After each row we use double line feed:
